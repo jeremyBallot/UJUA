@@ -169,7 +169,7 @@ return [
 		App\Providers\EventServiceProvider::class,
 		App\Providers\RouteServiceProvider::class,
 		App\Services\Html\HtmlServiceProvider::class,
-		configUnjourUnArt\Filemanager\FilemanagerServiceProvider::class,
+		Bestmomo\Filemanager\FilemanagerServiceProvider::class,
 
 	],
 

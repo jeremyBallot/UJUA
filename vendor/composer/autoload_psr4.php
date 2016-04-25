@@ -35,6 +35,6 @@ return array(
     'Collective\\Html\\' => array($vendorDir . '/laravelcollective/html/src'),
     'ClassPreloader\\' => array($vendorDir . '/classpreloader/classpreloader/src'),
     'Carbon\\' => array($vendorDir . '/nesbot/carbon/src/Carbon'),
-    'configUnjourUnArt\\Filemanager\\' => array($vendorDir . '/configUnjourUnArt/filemanager/src'),
+    'Bestmomo\\Filemanager\\' => array($vendorDir . '/bestmomo/filemanager/src'),
     'App\\' => array($baseDir . '/app'),
 );

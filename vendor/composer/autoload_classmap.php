@@ -72,7 +72,7 @@ return array(
     'App\\Services\\Html\\HtmlServiceProvider' => $baseDir . '/app/Services/Html/HtmlServiceProvider.php',
     'App\\Services\\LoremIpsumGenerator' => $baseDir . '/app/Services/LoremIpsumGenerator.php',
     'App\\Services\\Statut' => $baseDir . '/app/Services/Statut.php',
-    'configUnjourUnArt\\Filemanager\\FilemanagerServiceProvider' => $vendorDir . '/configUnjourUnArt/filemanager/src/FilemanagerServiceProvider.php',
+    'Bestmomo\\Filemanager\\FilemanagerServiceProvider' => $vendorDir . '/Bestmomo/filemanager/src/FilemanagerServiceProvider.php',
     'Carbon\\Carbon' => $vendorDir . '/nesbot/carbon/src/Carbon/Carbon.php',
     'Carbon\\CarbonInterval' => $vendorDir . '/nesbot/carbon/src/Carbon/CarbonInterval.php',
     'ClassPreloader\\ClassList' => $vendorDir . '/classpreloader/classpreloader/src/ClassList.php',

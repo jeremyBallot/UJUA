@@ -1,4 +1,4 @@
-<?php namespace configUnjourUnArt\Filemanager;
+<?php namespace Bestmomo\Filemanager;
  
 use Illuminate\Support\ServiceProvider;
  
