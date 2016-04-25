@@ -8,16 +8,16 @@
     "content-hash": "ff5b5a7221dadc65ab49628a631a39c8",
     "packages": [
         {
-            "name": "configUnjourUnArt/filemanager",
+            "name": "Bestmomo/filemanager",
             "version": "V1.1.2",
             "source": {
                 "type": "git",
-                "url": "https://github.com/configUnjourUnArt/filemanager.git",
+                "url": "https://github.com/Bestmomo/filemanager.git",
                 "reference": "e505d7e7bf60d6c9b73bdc2c3f143d4ab5b28fcb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/configUnjourUnArt/filemanager/zipball/e505d7e7bf60d6c9b73bdc2c3f143d4ab5b28fcb",
+                "url": "https://api.github.com/repos/Bestmomo/filemanager/zipball/e505d7e7bf60d6c9b73bdc2c3f143d4ab5b28fcb",
                 "reference": "e505d7e7bf60d6c9b73bdc2c3f143d4ab5b28fcb",
                 "shasum": ""
             },
@@ -27,7 +27,7 @@
             "type": "library",
             "autoload": {
                 "psr-4": {
-                    "configUnjourUnArt\\Filemanager\\": "src/"
+                    "Bestmomo\\Filemanager\\": "src/"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -42,7 +42,7 @@
                     "role": "Developer"
                 },
                 {
-                    "name": "configUnjourUnArt",
+                    "name": "Bestmomo",
                     "email": "grandheretique@free.fr",
                     "homepage": "http://laravel.sillo.org"
                 }
